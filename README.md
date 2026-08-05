@@ -1,4 +1,4 @@
-# 🧠 Mental Health Survey - Exploratory Data Analysis
+# 🧠 Mental Health Survey 
 
 This repository presents an **Exploratory Data Analysis (EDA)** project on a Mental Health Survey conducted within the technology industry. The goal is to analyze survey responses, identify patterns related to mental health, and uncover factors that may influence employees' willingness to seek treatment and workplace support.
 
